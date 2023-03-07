@@ -1,0 +1,17 @@
+/* selector de etiqueta */
+nav{
+    width: 250px;
+    background-color: rgba(0, 0, 255, 0.425); 
+}
+main{
+    background-color: rgba(0, 0, 255, 0.233);
+}
+/* selector de id */
+#introduccion{
+    background-color: black;
+    color: white;
+}
+/* selector de clase */
+.azul{
+    background-color: rgb(0, 89, 255);
+}
